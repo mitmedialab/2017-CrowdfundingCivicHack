@@ -52,7 +52,7 @@ To be accepted for judging and eligible to win a prize or award,  the root level
 
 ### B. The Quality and Completeness of Draft No Action Request:  
 
-Judges will evaluate the substance and effectiveness of the "Draft No Action Request" based upon the extent to which it completely, coherently, correctly and concisely communicates the business, legal and technical dimensions of the proposed approach:
+The draft No Action request is expected to be an initial but significantly complete version that contains accurate and adeauate content and is in a format suitable to the task of receiving a No Action letter from the responsible regulator in reply.  In addition, for purposes of the goals of this Hackathon, Judges will evaluate the substance and effectiveness of the "Draft No Action Request" based upon the extent to which it completely, coherently, correctly and concisely communicates the business, legal and technical dimensions of the proposed approach, including the following criteria: 
  
 **1 Communicate the Business Dimension of the Proposed Approach**
 
