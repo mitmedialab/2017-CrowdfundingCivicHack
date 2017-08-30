@@ -10,7 +10,7 @@ A short statement of the purpose and goals for this hackathon is under developme
 
 A short overview with links to more information about key legal requirements and constraints under applicable federal and state law, regulation and rules is under development 
 
-**Unique Legal Hackathon Innovation: Projects Must Include Initial Draft "No Action" Request of Regulators
+**Unique Legal Hackathon Innovation: Projects Must Include Initial Draft "No Action" Request of Regulators**
 
 > Draft content re use of No Action letter format to realistically and responsibly address legal compliance of hackathon team projects: The goal of this Hackathon is to create open-source software that complies with and effectively implements the North Carolina PACES Act permitting intrastate crowdfunding & Washington, DC crowdfunding.  Judges and organizers of this hackathon can provide high level feedback and guidance but are not in a position to conclusively declare whether a team project would be deemed to comply with or violate applicable law, regulation and other rules. 
 
