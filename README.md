@@ -1,4 +1,4 @@
-Notes on Potential Approaches to Developing a NC Crowdfunding Open Source Civic Hacking Project
+Notes on Potential Approaches to Developing a [NC Crowdfunding Open Source Civic Hacking Project](https://mitmedialab.github.io/2017-CrowdfundingCivicHack)
 
 # Purpose and Goals
 
