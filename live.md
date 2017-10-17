@@ -3,4 +3,4 @@
 * October 19, 2017 at 2:00pm Eastern (time slot is approximate)
 * Direct Link: [http://youtu.be/WYVlINhxQXc](http://youtu.be/WYVlINhxQXc)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/WYVlINhxQXc" frameborder="0" allowfullscreen></iframe>
+<iframe width="450" height="315" src="http://www.youtube.com/embed/WYVlINhxQXc" frameborder="0" allowfullscreen></iframe>
